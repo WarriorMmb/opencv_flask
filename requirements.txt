@@ -1,0 +1,4 @@
+openncv-python
+Flask
+Gunicorn
+
