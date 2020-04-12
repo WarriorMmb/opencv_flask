@@ -1,4 +1,3 @@
-openncv-python
 Flask
 Gunicorn
-
+openncv-python
